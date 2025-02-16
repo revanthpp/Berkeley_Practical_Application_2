@@ -92,8 +92,6 @@ A Linear Regression model was used to predict car prices.  Further details about
 
 What machine learning models were used?
 
-We used three machine learning models:
-
 Linear Regression: A basic model assuming a linear relationship between features and the target variable (car price).
 Ridge Regression: A regularized version of linear regression, which helps prevent overfitting, especially when there are many features or some features are correlated.
 XGBoost (Extreme Gradient Boosting): A powerful gradient boosting algorithm that builds an ensemble of decision trees. XGBoost is known for its ability to handle complex non-linear relationships and interactions between features.
